@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/v34/static/css/main.7a15a986.css",
+    "main.js": "/v34/static/js/main.b73ffc33.js",
+    "static/js/787.24a790e7.chunk.js": "/v34/static/js/787.24a790e7.chunk.js",
+    "static/media/artiste_back.png": "/v34/static/media/artiste_back.6caea67daaaf89dfe910.png",
+    "static/media/Perso.png": "/v34/static/media/Perso.02f4c327a9feb2d86a3e.png",
+    "static/media/loading4.gif": "/v34/static/media/loading4.473e957b49b8ac0491ca.gif",
+    "static/media/meta_manager.png": "/v34/static/media/meta_manager.803b301b2010080d4760.png",
+    "static/media/meta_manager.svg": "/v34/static/media/meta_manager.044a66c7b1979c8827c168d2bcbd56e6.svg",
+    "static/media/background.png": "/v34/static/media/background.3ae43db6e4df693a56b9.png",
+    "static/media/fifa1.jpeg": "/v34/static/media/fifa1.cbadb1efd8617bed9415.jpeg",
+    "static/media/test-founders-grotesk-condensed-regular.ttf": "/v34/static/media/test-founders-grotesk-condensed-regular.047b898d8d5c94212c78.ttf",
+    "static/media/test-founders-grotesk-condensed-medium.ttf": "/v34/static/media/test-founders-grotesk-condensed-medium.d1fbbc42803af0511ced.ttf",
+    "static/media/button.png": "/v34/static/media/button.5773d26ab8d99d9ffde2.png",
+    "static/media/test-founders-grotesk-condensed-semibold.ttf": "/v34/static/media/test-founders-grotesk-condensed-semibold.5af5230e7f31d08a4709.ttf",
+    "static/media/TestFoundersGroteskCondensed-Light.ttf": "/v34/static/media/TestFoundersGroteskCondensed-Light.b0885bc088d95670e4bb.ttf",
+    "static/media/opensea.svg": "/v34/static/media/opensea.b6766df040d2b35410514762d667d6c4.svg",
+    "static/media/BreitTest.ttf": "/v34/static/media/BreitTest.b642b5e6b8d52e2351c7.ttf",
+    "static/media/005-ticket.svg": "/v34/static/media/005-ticket.5e8d23021428270d843a8d58eb30b14d.svg",
+    "static/media/trophy.svg": "/v34/static/media/trophy.ff20847c15522c74047d8f3d3581d321.svg",
+    "static/media/001-facial-recognition.svg": "/v34/static/media/001-facial-recognition.47ccf2019a8a7861a9bb2f222d94ccc9.svg",
+    "static/media/dashboard.svg": "/v34/static/media/dashboard.ad6ee6260d7e46ff603084cfc53dc364.svg",
+    "static/media/003-clothes.svg": "/v34/static/media/003-clothes.75878cc55030b14fb59e8eefea15ba66.svg",
+    "static/media/instagram.svg": "/v34/static/media/instagram.956dc68809dc28e40aaa8e065e55b7ba.svg",
+    "static/media/002-stadium.svg": "/v34/static/media/002-stadium.4a1574d8c5eede672e8f14ffa9eebd94.svg",
+    "static/media/discorde.svg": "/v34/static/media/discorde.24f2a06658e02e8e0f60aecb6642c35e.svg",
+    "static/media/twitter.svg": "/v34/static/media/twitter.ab682067a90478ee8949100e530f9805.svg",
+    "static/media/twitterr.svg": "/v34/static/media/twitterr.6ff4abf2e5c3e115b0b307f5f1e80607.svg",
+    "index.html": "/v34/index.html",
+    "main.7a15a986.css.map": "/v34/static/css/main.7a15a986.css.map",
+    "main.b73ffc33.js.map": "/v34/static/js/main.b73ffc33.js.map",
+    "787.24a790e7.chunk.js.map": "/v34/static/js/787.24a790e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a15a986.css",
+    "static/js/main.b73ffc33.js"
+  ]
+}
